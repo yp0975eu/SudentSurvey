@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SudentSurvey</string>
+    <string name="button_yes_text">Yes</string>
+    <string name="button_no_text">No</string>
+    <string name="button_reset_text">Reset</string>
+    <string name="button_show_results_text">Show Results</string>
+    <string name="button_next_person_text">Next Participant</string>
+    <string name="question_football">Are the Vikings going to win the Superbowl?</string>
+    <string name="question_animals">Do you prefer cats to dogs?</string>
+    <string name="question_politics">Are you voting in the presidential election?</string>
+    <string name="question_breakfast">Did you eat breakfast this morning?</string>
+    <string name="end_of_survey">That\'s the end of the survey. Thanks</string>
+
+</resources>
